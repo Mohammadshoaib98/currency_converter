@@ -15,10 +15,11 @@ This project is a starting point for a Flutter application.
 ### To Use app
 
 <ul>
-<li>1. Enter amount that you want convert it.</li>
-<li>2. Select  a From currency or search it </li>
-<li>3. Select  a To currency or search it </li>
-<li>4. Press  Button Convert </li>
+<li>1. Check your connection with internet.</li>
+<li>2. Enter amount that you want convert it.</li>
+<li>3. Select  a From currency or search it </li>
+<li>4. Select  a To currency or search it </li>
+<li>5. Press  Button Convert </li>
 </ul>
 
 A few resources to get you started if this is your first Flutter project:
